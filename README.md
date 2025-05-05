@@ -5,4 +5,11 @@ Activity 1 : Hello Streamlit!
 ![code image](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/code1.png)
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task1.png)
 
+Activity 2 : DataFrame Viewer
+
+📌 In this task, I used Streamlit to build an interactive web application and pandas to handle data loading and manipulation. The app allows users to upload a CSV file using `st.file_uploader`, view the data with `st.dataframe`, and toggle raw data display using `st.checkbox`. I also implemented `st.selectbox` to let users filter the DataFrame by selecting a column and a specific value from it.
+![code image](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/code2.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task2.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task2.1.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task2.2.png)
 
