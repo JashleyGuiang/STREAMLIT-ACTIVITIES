@@ -16,3 +16,7 @@ Activity 2 : DataFrame Viewer
 Activity 3 : Sidebar and Layout
 
 📌 I created a Streamlit app that effectively organizes content on Data Warehousing and Enterprise Data Management. I used `st.sidebar` to add filters and display options, while `st.tabs` and `st.columns` helped structure the information clearly. To make the content more interactive, I included `st.expander` for sections that reveal additional details when needed.
+![code image](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/code3.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task3.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task3.1.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task3.2.png)
