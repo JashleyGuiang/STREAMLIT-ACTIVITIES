@@ -40,3 +40,12 @@ Activity 5 : Data PipeLine with Database
 ![code image](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/code5.png)
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task5.png)
 
+Activity 6 : Real-Time Video Stream with CV
+
+📌 The objectives were achieved by integrating OpenCV with Streamlit to capture real-time webcam video and apply dynamic filters. A sidebar dropdown allowed users to choose between Canny edge detection, face detection using Haar cascades, grayscale, and blur effects, each with adjustable parameters. Snapshot functionality was added to capture and display filtered frames on demand.
+
+![code image](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/code6.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task6.0.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task6.101.png)
+
+
