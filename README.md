@@ -20,3 +20,9 @@ Activity 3 : Sidebar and Layout
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task3.png)
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task3.1.png)
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task3.2.png)
+
+
+Activity 4 : Fetch and Display API Data
+
+📌To solve the problem, I built an interactive COVID-19 statistics dashboard using Streamlit. I fetched live data from an API, allowed users to select countries via the sidebar, and displayed key metrics using various charts like bar, line, pie, area, and geo maps. This setup makes it easy to visualize and compare the COVID-19 situation across different countries in real time.
+
