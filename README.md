@@ -32,3 +32,11 @@ Activity 4 : Fetch and Display API Data
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task4.2.png)
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task4.3.png)
 ![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task4.4.png)
+
+Activity 5 : Data PipeLine with Database
+
+📌To meet the objective of integrating a Streamlit app with a MySQL database, I used SQLAlchemy to establish a connection and executed SQL queries to retrieve and filter employee data. The results were displayed using `st.dataframe`, and new entries were added via a Streamlit form. I also implemented a basic login system to restrict access and ensure only authorized users can interact with the application.
+
+![code image](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/code5.png)
+![Task Screenshot](https://raw.githubusercontent.com/JashleyGuiang/STREAMLIT-ACTIVITIES/main/images/task5.png)
+
